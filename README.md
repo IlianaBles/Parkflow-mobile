@@ -21,7 +21,7 @@ Hardware Integration: Arduino (for sensor data)
 
 🚀 Installation Guide
 1. Clone the Repository
-git clone https://github.com/your-username/parkflow-mobile.git
+git clone (https://github.com/IlianaBles/Parkflow-mobile).git
 cd parkflow-mobile
 
 3. Open in Android Studio
