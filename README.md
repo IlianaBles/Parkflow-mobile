@@ -44,8 +44,6 @@ Endpoint	Method	Description
 /update_slot_status	POST	Update slot occupancy
 /get_parking_duration	GET	Retrieve parked time
 
-📜 License
-This project is open-source under the MIT License.
 
 🤝 Contributors
 Trisha Iliana Bles Raya 
